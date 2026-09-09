@@ -1,0 +1,11 @@
+超写实真人时尚摄影，成年年轻女性，韩系轻熟气质，略带混血感，白皙皮肤，长款深棕色微卷发，精致耳饰和细项链，身材高挑纤细，正常人体比例，双腿自然修长不过度拉伸。
+四栏 fashion lookbook 海报排版，分别为：正面 Front、侧面 Side、背面 Back、大头贴 Headshot。前三栏为全身三视图，第四栏为特写头像。
+正面为手机遮脸镜面自拍；侧面为轻微侧身回头；背面为背对镜头微侧头；大头贴突出特定神态。
+黑色极简室内背景，深色墙面，灰色大理石地面，柔和侧光，暖调电影感，高级时尚杂志风，轻微胶片颗粒，真实皮肤与布料纹理，不磨皮，不塑料皮肤。
+顶部大标题写“LOOK X + 中英文单品名称”，副标题写材质、细节、风格，中英文双语；右下角加入对应表情文案，中英文排版。
+穿搭为：【在这里替换具体上衣、下装、丝袜、鞋子】；表情为：【在这里替换委屈感 / 无辜眼神 / 期待 / 放松呼吸感 / 小得意 / 慢半拍微笑 / 欲言又止 / 偷看镜头】。
+clean layout, editorial fashion poster, photorealistic, ultra detailed, 8k.
+
+负面提示词
+
+low quality, blurry, extra fingers, bad hands, bad anatomy, distorted legs, exaggerated body proportions, plastic skin, over retouched skin, deformed face, asymmetrical eyes, stiff pose, messy composition, duplicate limbs, weird stockings texture, unreadable text, low detail fabric
